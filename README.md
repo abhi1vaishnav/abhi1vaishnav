@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi1vaishnav&label=Profile%20views&color=0e75b6&style=flat" alt="abhi1vaishnav" /> </p>
 
-- 🔭 I’m currently working on **web development projects at Armonia**
+- 🔭 I’m currently working on **completing my third year at the University of Waterloo**
 
-- 🌱 I’m currently learning **React, javascript**
+- 🌱 I’m currently learning **Compilers, Databases**
 
 - 💬 Ask me about **the latest tech on the market**
 
