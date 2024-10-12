@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **completing my third year at the University of Waterloo**
 
-- 🌱 I’m currently learning **Compilers, Databases**
+- 🌱 I’m currently learning **Compilers, Databases, Computer Networks**
 
 - 💬 Ask me about **the latest tech on the market**
 
